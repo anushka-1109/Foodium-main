@@ -1,0 +1,32 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "dep backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "all",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "crypto-js": "^4.1.1",
+    "dead-simple-crypt": "^0.0.1",
+    "express": "^4.17.2",
+    "express-session": "^1.17.2",
+    "fs": "^0.0.1-security",
+    "method-override": "^3.0.0",
+    "mongoose": "^6.2.4",
+    "multer": "^1.4.4",
+    "nodemailer": "^6.7.3",
+    "passport": "^0.5.2",
+    "passport-custom": "^1.1.1",
+    "passport-local": "^1.0.0",
+    "passport-local-mongoose": "^6.1.0",
+    "simple-crypt": "^3.0.7",
+    "string-encode-decode": "^1.0.7",
+    "uuidv4": "^6.2.12"
+  }
+}

@@ -1,0 +1,44 @@
+/* .login-form {
+    max-width: 300px;
+} */
+
+.login-form-forgot {
+    float: right;
+}
+
+/* .ant-col-rtl .login-form-forgot {
+    float: left;
+} */
+
+.login-form-button {
+    width: 100%;
+    margin-bottom: 2%;
+}
+
+.completePage {
+    height: 100%;
+    width: 100%;
+    padding-bottom: 3%;
+}
+
+.logo {
+    height: 30%;
+    width: 30%;
+    margin: 6% 35% 4% 35%;
+}
+
+.login-form{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+/*sign up page*/
+.registerationForm{
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+/* .login-form-second-last-item {
+    width: 100%;
+    display: block;
+} */
